@@ -19,7 +19,10 @@ Users should be able to:
 ### Built with
 
 - Semantic HTML5 markup
-- React + useEffect + Vite
+- React
+- useEffect
+- React-loading-skeleton
+- Vite
 - Mobile-first workflow
 
 ## Author
